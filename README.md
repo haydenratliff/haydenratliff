@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my github!
+
+I store all of my school-related code in a private repository, in order to comply with UVA's honor policy. However, I love sharing my code portfolio with people interested in checking it out - please shoot me an email at haydenratliff@virginia.edu and I can share it with you or send you it in a zipped folder.
+
+Otherwise, stay tuned for a variety of other projects which will be public soon!
 
 <!--
 **haydenratliff/haydenratliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
