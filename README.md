@@ -1,5 +1,7 @@
 ### Welcome to my github!
 
+I consider myself proficient in Python, Java, and C++, and I dabble in C, x86 assembly, and SQL. I also enjoy using Excel solver for smaller optimization problems. 
+
 I store all of my school-related code in a private repository, in order to comply with UVA's honor policy. However, I love sharing my code portfolio with people interested in checking it out - please shoot me an email at haydenratliff@virginia.edu and I can share it with you or send you it in a zipped folder.
 
 Otherwise, stay tuned for a variety of other projects that will be public soon!
