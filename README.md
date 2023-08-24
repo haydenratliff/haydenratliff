@@ -1,8 +1,8 @@
 ### Welcome to my github!
 
-My name is Hayden, and I'm currently a student at the University of Virginia. I consider myself proficient in Python, R, Java, and C++, and I've dabbled in C, x86 assembly, and SQL. I also use Excel solver for smaller optimization problems.
+My name is Hayden, and I'm currently a graudate student at MIT. 
 
-All of my school-related code is in a private repository to comply with UVA's honor policy, but I love sharing my code portfolio with people interested in checking it out - please shoot me an email at haydenratliff@virginia.edu and I can share it with you.
+All of my school-related code is in a private repository to comply with UVA's honor policy, but I love sharing my code portfolio with people interested in checking it out - please shoot me an email at hratliff@mit.edu and I can share it with you.
 
 Otherwise, stay tuned for a variety of other projects that will be public soon!
 
