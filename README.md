@@ -2,7 +2,7 @@
 
 My name is Hayden, and I'm currently a graudate student at MIT. 
 
-All of my school-related code is in a private repository to comply with UVA's honor policy, but I love sharing my code portfolio with people interested in checking it out - please shoot me an email at hratliff@mit.edu and I can share it with you.
+All of my academic code is in a private repository to comply with, but I love sharing my code portfolio with people interested in checking it out - please shoot me an email at hratliff@mit.edu and I can share it with you.
 
 Otherwise, stay tuned for a variety of other projects that will be public soon!
 
