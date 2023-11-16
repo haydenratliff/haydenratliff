@@ -1,10 +1,17 @@
 ### Welcome to my github!
 
-My name is Hayden, and I'm currently a graudate student at MIT. 
+About me:
+Right now, I'm pursuing a Master of Business Analytics at MIT. At MIT, I'm focused on practical, real-world applications of ML and Optimization, in the healthcare and logistics industries in particular.
+Previously, I studied Systems Engineering, Government, and Computer Science at the University of Virginia. 
 
-All of my academic code is in a private repository to comply with, but I love sharing my code portfolio with people interested in checking it out - please shoot me an email at hratliff@mit.edu and I can share it with you.
+Interests:
+AI/ML and Optimization
+Healthcare improvement
+Logistics optimization
+Data-driven policymaking
 
-Otherwise, stay tuned for a variety of other projects that will be public soon!
+About this page:
+Most of my academic code is private to comply with university honor policy, but I'm currently working on a variety of projects that will be public soon. Stay tuned!
 
 <!--
 **haydenratliff/haydenratliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
