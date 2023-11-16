@@ -5,10 +5,10 @@ Right now, I'm pursuing a Master of Business Analytics at MIT, where I'm focused
 Previously, I studied Systems Engineering, Government, and Computer Science at the University of Virginia. 
 
 #### Interests:
-AI/ML, optimization, healthcare improvement, logistics optimization, data-driven policymaking
+AI/ML, optimization, healthcare improvement, logistics optimization, and data-driven policymaking.
 
 #### About this page:
-Most of my academic code is private to comply with university honor policy, but I'm currently working on a variety of projects that will be public soon. Stay tuned!
+Most of my academic code is private, but I'm currently working on a variety of projects that will be public soon. Stay tuned!
 
 <!--
 **haydenratliff/haydenratliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
