@@ -6,8 +6,11 @@ Previously, I studied Systems Engineering, Government, and Computer Science at t
 
 #### Interests:
 AI/ML and Optimization
+
 Healthcare improvement
+
 Logistics optimization
+
 Data-driven policymaking
 
 #### About this page:
