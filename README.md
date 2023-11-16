@@ -1,7 +1,7 @@
 ### Welcome to my github!
 
 #### About me:
-Right now, I'm pursuing a Master of Business Analytics at MIT. At MIT, I'm focused on practical, real-world applications of ML and Optimization, in the healthcare and logistics industries in particular.
+Right now, I'm pursuing a Master of Business Analytics at MIT, where I'm focused on practical, real-world applications of ML and Optimization, in the healthcare and logistics industries in particular.
 Previously, I studied Systems Engineering, Government, and Computer Science at the University of Virginia. 
 
 #### Interests:
