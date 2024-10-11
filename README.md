@@ -3,7 +3,7 @@
 #### About me:
 I’m an August 2024 graduate of MIT’s Master’s of Business Analytics (MBAn) program, with a focus on Machine Learning, AI, and Data Science at MIT’s Operations Research Center. At MIT, I conducted research advised by Prof. Dimitris Bertsimas and worked for Lineage Logistics and Pfizer. Previously, I studied Systems Engineering, Government, and Computer Science at the University of Virginia. 
 
-This fall, I am actively seeking a full-time role building data-driven software products with ML. If you’d like to get in contact, please reach out to me at hratliff@mit.edu.
+I am actively seeking a full-time role building data-driven software products with ML. If you’d like to get in contact, please reach out to me at hratliff@mit.edu.
 
 #### Interests:
 AI/ML, optimization, healthcare improvement, logistics optimization, and data-driven policymaking.
