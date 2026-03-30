@@ -1,7 +1,7 @@
 ### Welcome to my github!
 
 #### About me:
-Right now, I work as a ML Engineer at Annapurna Labs, Amazon's in-house custom silicon lab.
+Currently, I work as a ML Engineer at Annapurna Labs, Amazon's in-house custom silicon lab.
 
 I’m a graduate of MIT’s Master’s of Business Analytics (MBAn) program, with a focus on Machine Learning, AI, and Data Science at MIT’s Operations Research Center. At MIT, I conducted research advised by Prof. Dimitris Bertsimas and worked for Lineage Logistics and Pfizer. Previously, I studied Systems Engineering, Government, and Computer Science at the University of Virginia. 
 
